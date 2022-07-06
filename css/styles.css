@@ -1,0 +1,28 @@
+.blocka {
+  display: block;
+}
+
+div p:first-child {
+  margin-top: 0;
+}
+
+div p:last-child {
+  margin-bottom: 0;
+}
+
+a,
+a:visited,
+a:hover {
+  color: #fff;
+}
+
+main {
+  width: 600px;
+}
+
+body {
+  font-family: monospace;
+  background-color: #000;
+  color: #fff;
+  font-size: 120%;
+}
